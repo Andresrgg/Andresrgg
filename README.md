@@ -3,10 +3,6 @@
 ### 🎓 Bridging Tech & Business 
 **Computer Science & Business Administration Dual Degree @ UCM**
 
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning **Advanced Data Structures** and **Market Economics**
-* 💬 Ask me about the intersection of **Software Engineering** and **Corporate Strategy**
-
 ---
 
 ## 🌐 Connect with me:
@@ -14,3 +10,6 @@
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
